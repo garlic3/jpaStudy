@@ -53,20 +53,32 @@ public class JpaMain {
         member.setAge(2);
 
         //등록
+        // 엔티티 생성후 메소드에게 전달하여 엔티티 저장
         em.persist(member);
 
         //수정
+        // JPA는 어떤 엔티티가 변경되었는지 추적 기능을 가지고 있기때문에
+        // 자동으로 update 쿼리를 생성하여 실행한다
+        // UPDATE MEMBER SET AGE=20 WHERE ID='id1'
         member.setAge(20);
 
         //한 건 조회
+        // 엔티티 타입과 테이블의 PK와 매핑한 식별자 값으로
+        // 엔티티 하나 조회
+        // SELECT * FROM MEMBER WHERE ID='id1'
         Member findMember = em.find(Member.class, id);
         System.out.println("findMember=" + findMember.getUsername() + ", age=" + findMember.getAge());
 
         //목록 조회
+        // JPQL : 엔티티 객체를 대상으로 쿼리
+        // SQL : 데이터베이스 테이블을 대상으로 쿼리
+        
         List<Member> members = em.createQuery("select m from Member m", Member.class).getResultList();
         System.out.println("members.size=" + members.size());
 
         //삭제
+        // 삭제할 엔티티 메소드에게 전달
+        // DELETE FROM MEMBER WHERE ID = 'id1'
         em.remove(member);
 
     }

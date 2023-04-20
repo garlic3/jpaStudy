@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36737db1-4331-4cac-9b81-0c37b3f0e923" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/src/main/java/jpabook/model/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/src/main/java/jpabook/model/entity/MemberWithOneToMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/src/main/java/jpabook/model/entity/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/src/main/java/jpabook/model/entity/TeamWithOneToMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06-model3/ch06-model3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08-model5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch11-jpa-shop/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch12-springdata-shop/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex01_inheritance/ItemWithJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex02_Embed/ParentByEmb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex02_Embed/ParentIdByEmb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex02_IdClass/ChildById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex02_IdClass/ParentById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex02_IdClass/ParentIdById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_Embed/ChildByEmb2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_Embed/ChildIdByEmb2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_Embed/GrandChildByEmb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_Embed/GrandChildIdByEmb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_Embed/ParentByEmb2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_IdClass/ChildById2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_IdClass/ChildIdById2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_IdClass/GrandChildById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_IdClass/GrandChildIdById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex03_IdClass/ParentById2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex04/ChildByNon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex04/GrandChildByNon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex04/ParentByNon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex05/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex05/BoardDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex06_JoinTable/manyToMany/ChildManyToMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex06_JoinTable/manyToMany/ParentManyToMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex06_JoinTable/manyToOne/ChildManyToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex06_JoinTable/manyToOne/ParentManyToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex06_JoinTable/oneToMany/ChildOneToMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex06_JoinTable/oneToMany/ParentOneToMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex06_JoinTable/oneToOne/ChildOneToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch07/src/main/java/jpabook/model/entity/ex06_JoinTable/oneToOne/ParentOneToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/ex01_eager/MemberByEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/ex01_eager/TeamByEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/ex01_lazy/MemberByLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/ex01_lazy/TeamByLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/ex02_cascade/ChildByCascade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/ex02_cascade/ParentByCascade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/ex03_orphan/ChildByOrphan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-ch08/src/main/java/jpabook/model/entity/ex03_orphan/ParentByOrphan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/min-model2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/src/main/java/jpabook/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/target/classes/jpabook/model/entity/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/target/classes/jpabook/model/entity/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../min-model2/target/classes/jpabook/model/entity/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02-jpa-start1/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02-jpa-start1/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02-jpa-start1/target/classes/META-INF/maven/jpabook/ch02-jpa-start1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02-jpa-start1/target/classes/META-INF/maven/jpabook/ch02-jpa-start1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-jpa-start2/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-jpa-start2/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-jpa-start2/target/classes/META-INF/maven/jpabook/ch04-jpa-start2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-jpa-start2/target/classes/META-INF/maven/jpabook/ch04-jpa-start2/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-model1/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-model1/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-model1/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-model1/target/classes/META-INF/maven/jpabook/ch04-model1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-model1/target/classes/META-INF/maven/jpabook/ch04-model1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/maven/jpabook/ch05-model2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/maven/jpabook/ch05-model2/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06-model3/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06-model3/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06-model3/target/classes/META-INF/maven/jpabook/ch06-model3/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06-model3/target/classes/META-INF/maven/jpabook/ch06-model3/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07-model4/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07-model4/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07-model4/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07-model4/target/classes/META-INF/maven/jpabook/ch07-model4/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07-model4/target/classes/META-INF/maven/jpabook/ch07-model4/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08-model5/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08-model5/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08-model5/target/classes/META-INF/maven/jpabook/ch08-model5/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08-model5/target/classes/META-INF/maven/jpabook/ch08-model5/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch09-model6/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch09-model6/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09-model6/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch09-model6/target/classes/META-INF/maven/jpabook/ch09-model6/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09-model6/target/classes/META-INF/maven/jpabook/ch09-model6/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch11-jpa-shop/target/m2e-wtp/web-resources/META-INF/maven/jpabook/ch11-jpa-shop/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch11-jpa-shop/target/m2e-wtp/web-resources/META-INF/maven/jpabook/ch11-jpa-shop/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch12-springdata-shop/target/m2e-wtp/web-resources/META-INF/maven/jpabook/ch12-springdata-shop/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch12-springdata-shop/target/m2e-wtp/web-resources/META-INF/maven/jpabook/ch12-springdata-shop/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OUkQbtSk3U64lwL7iHmizwKhfN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/minmin/jpaStudy/min-ch04-model2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="jpabook.model.entitly2" />
+      <recent name="jpabook.model.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jpabook.model" />
+      <recent name="jpabook.model.entitly2" />
+      <recent name="jpabook.model.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main02">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpabook.model.Main" />
+      <module name="min" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpabook.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpabook.model.Main02" />
+      <module name="min" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpabook.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main02" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36737db1-4331-4cac-9b81-0c37b3f0e923" name="Changes" comment="" />
+      <created>1681622532721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681622532721</updated>
+      <workItem from="1681622533772" duration="5187000" />
+      <workItem from="1681976608118" duration="11379000" />
+      <workItem from="1682007401830" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d660782b-9502-400d-88bc-31c273225e23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch11-jpa-shop/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch12-springdata-shop/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/jpabook/ch02-jpa-start1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/jpabook/ch02-jpa-start1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-jpa-start2/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-jpa-start2/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-jpa-start2/target/classes/META-INF/maven/jpabook/ch04-jpa-start2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-jpa-start2/target/classes/META-INF/maven/jpabook/ch04-jpa-start2/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-model1/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-model1/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-model1/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04-model1/target/classes/META-INF/maven/jpabook/ch04-model1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04-model1/target/classes/META-INF/maven/jpabook/ch04-model1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/maven/jpabook/ch05-model2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05-model2/target/classes/META-INF/maven/jpabook/ch05-model2/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06-model3/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06-model3/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06-model3/target/classes/META-INF/maven/jpabook/ch06-model3/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06-model3/target/classes/META-INF/maven/jpabook/ch06-model3/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07-model4/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07-model4/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07-model4/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07-model4/target/classes/META-INF/maven/jpabook/ch07-model4/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07-model4/target/classes/META-INF/maven/jpabook/ch07-model4/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08-model5/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08-model5/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08-model5/target/classes/META-INF/maven/jpabook/ch08-model5/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08-model5/target/classes/META-INF/maven/jpabook/ch08-model5/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch09-model6/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch09-model6/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09-model6/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch09-model6/target/classes/META-INF/maven/jpabook/ch09-model6/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09-model6/target/classes/META-INF/maven/jpabook/ch09-model6/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch11-jpa-shop/target/m2e-wtp/web-resources/META-INF/maven/jpabook/ch11-jpa-shop/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch11-jpa-shop/target/m2e-wtp/web-resources/META-INF/maven/jpabook/ch11-jpa-shop/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch12-springdata-shop/target/m2e-wtp/web-resources/META-INF/maven/jpabook/ch12-springdata-shop/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ch12-springdata-shop/target/m2e-wtp/web-resources/META-INF/maven/jpabook/ch12-springdata-shop/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OQLKCRtdSyFZ6s3lwVtpQmnH3K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/minmin/jpaStudy/ch02-jpa-start1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d660782b-9502-400d-88bc-31c273225e23" name="Changes" comment="" />
+      <created>1681487793077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681487793077</updated>
+      <workItem from="1681487794150" duration="47000" />
+      <workItem from="1681621272324" duration="670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
